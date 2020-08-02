@@ -19,7 +19,7 @@ Hi, I'm Utkrisht Goyal, an IOT geek, currently, looking for a Internship. I'm a 
 <br/>
 <br/>
 
-  <img align="right" height="250" width="350" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fwebdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI&psig=AOvVaw1c9gYqjHM9Yt7ThZ40V-Ps&ust=1596480073842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDx1--V_eoCFQAAAAAdAAAAABAX" />
+  <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif" />
 
 **Talking about Personal Stuffs:**
 
