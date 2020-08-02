@@ -11,13 +11,14 @@
   <img align="left" alt="Utkrisht's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 Hi, I'm Utkrisht Agrawal, an enthusiastic and passionate programmer, I have always wanted to code away my days. Having started programming since class 9th I continue working hard to optimize solutions and find better ways to make code work. I strongly believe in producing and building codes and have participated in many hackathons to bring my ideas to life. With strong problem-solving skills and logical ability, I thrive to collect more experience and enhance my abilities. Continuously evolving and willing to learn, I wish to be called a great coder.
 
 <br/>
 
-  <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif" />
 
 **Talking about Personal Stuffs:**
 
