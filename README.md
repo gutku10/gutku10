@@ -41,7 +41,6 @@ Hi, I'm Utkrisht Agrawal, an enthusiastic and passionate programmer, I have alwa
 <code><img height="20" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
 <code><img height="20" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135110/gcp_icon_v.png"></code>
-<code><img height="20" src="https://lh3.googleusercontent.com/proxy/5v5Iel6jQdgvOGM8_AmDbKEk1W7UutRITwvg9zw4Xp01IZBWRHuYvZRanWjVhge8uD6vm-UnVOWR_m-NyF4eKBjVo63NuXJNTwz_E5b7m0x01BJCPH8"></code>
 
 
 ![Utkrisht's github stats](https://github-readme-stats.vercel.app/api?username=gutku10&show_icons=true&hide_border=true)
