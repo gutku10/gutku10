@@ -1,18 +1,18 @@
 ### Hey 👋, I'm Utkrisht Agrawal
 
-<a href="https://www.facebook.com/utkrisht.agrawal.10/">
+<a href="https://www.facebook.com/utkrisht.agrawal.10/" target="_blank">
   <img align="left" alt="Utkrisht's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/utkrisht-agrawal/">
+<a href="https://www.linkedin.com/in/utkrisht-agrawal/" target="_blank">
   <img align="left" alt="Utkrisht's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/AgrawalUtkrisht">
+<a href="https://twitter.com/AgrawalUtkrisht" target="_blank">
   <img align="left" alt="Utkrisht's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a>
 
-<a href="https://www.utkrishtagrawal.com">
+<a href="https://www.utkrishtagrawal.com" target="_blank">
   <img align="left" alt="Utkrisht's Website" width="22px" src="https://www.shareicon.net/data/512x512/2015/11/26/678351_book_512x512.png" />
 </a>
 
