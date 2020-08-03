@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Utkrisht Agrawal
 
 <a href="https://www.utkrishtagrawal.com">
-  <img align="left" alt="Utkrisht's Website" width="22px" src="https://www.freeiconspng.com/uploads/black-www-icon-17.png" />
+  <img align="left" alt="Utkrisht's Website" width="22px" src="https://i.dlpng.com/static/png/7060695_preview.png" />
 </a>
 
 <a href="https://www.facebook.com/utkrisht.agrawal.10/">
