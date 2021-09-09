@@ -35,7 +35,6 @@ Hi, I'm Utkrisht Agrawal, an enthusiastic and passionate programmer, I have alwa
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://lh3.googleusercontent.com/proxy/5v5Iel6jQdgvOGM8_AmDbKEk1W7UutRITwvg9zw4Xp01IZBWRHuYvZRanWjVhge8uD6vm-UnVOWR_m-NyF4eKBjVo63NuXJNTwz_E5b7m0x01BJCPH8"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
